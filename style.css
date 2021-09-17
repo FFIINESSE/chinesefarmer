@@ -1,0 +1,35 @@
+p {
+    font-family: serif;
+    letter-spacing: 4px;
+    line-height: 200%;
+    color: blue;
+  }
+
+  
+  a:link {
+    color: red;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+
+  body {
+    width: 90%;
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-image: url("ff.jpeg");
+  }
+
+  .background-img{
+    background-size: cover;
+    position:fixed;
+    right:10px;
+    bottom: 10px 
+}
